@@ -1,0 +1,14 @@
+Package: swfsc.mega.tools
+Type: Package
+Title: Tools for manipulating and analyzing genetic data at the Santa Cruz Lab
+Version: 1.0
+Date: 2014-03-06
+Author: Eric C. Anderson
+Maintainer: Who to complain to <eric.anderson@noaa.gov>
+Description: Tools for manipulating and analyzing genetic data at the Santa
+    Cruz Lab.
+License: GPL-2
+Depends:
+    stringdist
+LazyData: true
+Roxygen: list(wrap = FALSE)
